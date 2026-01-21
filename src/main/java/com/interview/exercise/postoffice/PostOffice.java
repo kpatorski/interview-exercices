@@ -1,4 +1,4 @@
-package com.interview.exercise.streams;
+package com.interview.exercise.postoffice;
 
 import java.util.Comparator;
 import java.util.List;
